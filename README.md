@@ -1,2 +1,3 @@
-# Rhys_Mckay_Portfolio
-Data Analytics Portfolio
+# Covid-19 related deaths analysis project
+
+Data sourced from: https://ourworldindata.org/covid-deaths
