@@ -1,6 +1,7 @@
 
 # Covid-19 Vaccination Analysis Project
 
+**Dashboard also available on https://public.tableau.com/app/profile/rhys.mckay/viz/RhysMckayCOVID-19AnalysisProject/CovidVaccineTracker**
 
 **Introduction** 
 The COVID-19 pandemic prompted a global push for widespread vaccination, with vaccination campaigns occurring daily in an effort to curb the spread of the virus. This project aims to meticulously track the dissemination of the COVID-19 vaccine during the critical period between 04/09/20 and 25/10/21. Additionally, we will delve into the intriguing interplay between a country's GDP and its vaccination rate. Understanding these dynamics is crucial for assessing the effectiveness of vaccination strategies and their implications for global public health.
